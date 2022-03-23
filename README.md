@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Thanks for checking out my page.
+Why you mirrin? :)
 
 <p align="center">
 <a href="https://github.com/chrisdeleonn/github-readme-stats">
